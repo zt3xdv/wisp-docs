@@ -22,5 +22,6 @@ If it's not a Rate Limit, its a code issue.
 
 Make sure you're binding on IP `0.0.0.0`, and port on the assigned port that your Server has.
 
-# Can't type in Server Console
+## Can't type in Server Console
+
 Typing in Console is disabled, except for Minecraft Servers.
