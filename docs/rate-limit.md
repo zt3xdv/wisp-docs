@@ -33,6 +33,7 @@ Or anything that includes `429`, as this is the HTTP error code for "Too Many Re
 
 For Node.js (discord.js), the library doesn't show ratelimit messages like discord.py does.
 But there is some other factors on which you can (likely) identify a ratelimit, such as;
+
 Your Bot's `client.on("ready",)` event not firing.
 Bot not responding to Commands or to other Events that it should respond to.
 
