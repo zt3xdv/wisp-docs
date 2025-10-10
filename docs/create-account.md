@@ -1,0 +1,2 @@
+# How to create account in Wispbyte
+Create an account by clicking on **[LOGIN](https://wispbyte.com/client)** button, after that you'll be redirect to **LOGIN** page you can login/register using **GOOGLE, DISCORD, EMAIL, ETC..**.
